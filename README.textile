@@ -10,7 +10,7 @@
 
 Use:
 * CSS Comments: * + tab
-* border-radius: box-shadow + tab
+* border-radius: border-radius + tab
 * box-shadow with outer shadow: box-shadow + tab
 * box-shadow with inner shadow: box-shadow-inset + tab
 * background with browser generated gradient: background-gradient + tab
