@@ -1,15 +1,15 @@
-"CSS Extended" adds basic CSS3 support for a number elements that have become more popular as browser support for them improves. The tab triggers remove the redundancy of having to create browser specific css by writing it for you. For instance, you can type "box-shadow + tab" and it creates the following:
+h1. CSS-Extended-Bundle
+"CSS-Extended-Bundle" adds basic CSS3 support for a number elements that have become more popular as browser support for them has improved. The tab triggers remove the work of having to create browser specific css by writing it for you. For instance, you can type "box-shadow + tab" and it creates the following:
 * box-shadow:         px px px px #;
 * -moz-box-shadow:    px px px px #;
 * -webkit-box-shadow: px px px px #;
 
-*Installation:*
-* Move bundle to ~/Library/Application Support/TextMate/Bundles
+h2. Installation:
+* Copy "CSS-Extended.tmbundle" to ~/Library/Application Support/TextMate/Bundles
 * Open TextMate. Go to menu item Bundles > Bundles Editor > Reload Bundles
-* If you have any issues with TextMate Bundles, see http://manual.macromates.com/en/bundles
+* If you have any issues with TextMate Bundles, see "http://manual.macromates.com/en/bundles":http://manual.macromates.com/en/bundles
 
-Use:
-* CSS Comments: * + tab
+h2. Use (all use tab completion):
 * border-radius: border-radius + tab
 * box-shadow with outer shadow: box-shadow + tab
 * box-shadow with inner shadow: box-shadow-inset + tab
@@ -17,6 +17,9 @@ Use:
 * rgb value: rgb + tab
 * rgba value: rgba + tab
 * text-shadow: text-shadow + tab
+* CSS Comments: * + tab
+
+Harness the power of multiline editing. (inspired by bricolage, brynary, and smtlaissezfaire).
 
 Tab through all the values of each element. The element will be complete as soon as you tab out of it.
 
