@@ -22,7 +22,7 @@ h2. Use (all use tab completion):
 * text-shadow: text-shadow + tab
 * CSS Comments: * + tab
 
-Harness the power of multiline editing. (inspired by bricolage, brynary, and smtlaissezfaire).
+Harness the power of multiline editing. (inspired by "bricolage":https://github.com/bricolage, "brynary":https://github.com/brynary and "smtlaissezfaire":https://github.com/smtlaissezfaire).
 
 Tab through all the values of each element. The element will be complete as soon as you tab out of it.
 
