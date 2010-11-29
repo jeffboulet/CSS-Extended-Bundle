@@ -1,6 +1,6 @@
 h1. CSS-Extended-Bundle
 
-"CSS-Extended-Bundle" adds basic CSS3 support for a number elements that have become more popular as browser support for them has improved. The tab triggers remove the work of having to create browser specific css by writing it for you. For instance, you can type "box-shadow + tab" and it creates the following:
+"CSS-Extended-Bundle" adds basic CSS3 support for a number properties that have become more popular as browser support for them has improved. The tab triggers remove the work of having to create browser specific css by writing it for you. For instance, you can type "box-shadow + tab" and it creates the following:
 * box-shadow:         px px px px #;
 * -moz-box-shadow:    px px px px #;
 * -webkit-box-shadow: px px px px #;
